@@ -1,7 +1,6 @@
-# MySQL Bin feature disable
+# MySQL Bin log disable
 
 This simple program flushes mysql logs and disables bin feature completely.
 
 ## Usage
-
-simply run this program with sudo privileges. 
+run this program with sudo privileges. 
