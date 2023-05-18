@@ -1,0 +1,13 @@
+[package]
+name = "mysql_bin_disable"
+version = "0.1.0"
+edition = "2021"
+authors = ["Pejman Rezaei <prezaeiw@gmail.com>"]
+description = "A short and simple program to disable MySQL bin feature"
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
