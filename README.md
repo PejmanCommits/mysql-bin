@@ -2,6 +2,6 @@
 
 This simple program flushes mysql logs and disables bin feature completely.
 
-# Usage
+## Usage
 
 simply run this program with sudo privileges. 
